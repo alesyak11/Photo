@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CostCounterPhoto</string>
+
+    <string name="format_photo">Format</string>
+    <string name="count_photo">Count</string>
+
+    <string name="format_photo_small">9 X 12</string>
+    <string name="format_photo_medium">10 X 15</string>
+    <string name="format_photo_big">18 X 24</string>
+
+    <string name="count_photo_small">100 rub</string>
+    <string name="count_photo_medium">150 rub</string>
+    <string name="count_photo_big">300 rub</string>
+
+    <string name="enter_quantity">quantity</string>
+    <string name="ok_button_label">OK</string>
+
+    <string name="result_activity_label">ResultActivity</string>
+</resources>
